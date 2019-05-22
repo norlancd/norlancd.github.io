@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: norlancd/norlancd.github.io
 # favicon: images/favicon.ico
 
 # Personal info
 name: Norlan Capote
 title: Senior Developer
 email: norlan.capote@gmail.com
-website: linkedin.com/norlancd
+website: https://github.com/norlancd/norlancd.github.io
 
 # Social links
-#twitter_username: facespics
+twitter_username: norlancd
 github_username:  norlancd
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
 linkedin_username: norlancd
-# pinterest_username: jekyll
-#youtube_username: globalmtb
+pinterest_username: norlancd
+youtube_username: norlan.capote
 # googleplus_username: +jekyll
 
 # About Section
@@ -26,10 +26,7 @@ about_profile_image: images/photo_perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Norlan and I'm a Scrum Master and a senior developer in different programming languages. 
   I have experience making Web and Mobile applications. 
-  #Software Developer Analyst with knowledge of Computer Architecture, Network Architecture, Computer Security,
-#Software Engineering, Process Automation, Software and Project Management, Capture
-#requirements, Software Quality Assurance, Risk Management and Software Architecture.
-
+  
   I am most skilled in: <mark>C#</mark> and <mark>Odoo</mark>
 
 # Projects Section
