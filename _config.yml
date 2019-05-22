@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: Norlan Capote
 title: Senior Developer
 email: norlan.capote@gmail.com
-website: www.linkedin.com/in/norlancd/
+website: linkedin.com/norlancd
 
 # Social links
 #twitter_username: facespics
@@ -24,7 +24,10 @@ linkedin_username: norlancd
 # about_title: About Me
 about_profile_image: images/photo_perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Norlan and I'm a senior developer. I have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Norlan and I'm a Scrum Master and a senior developer in different programming languages. I have experience making Web and Mobile applications. 
+  #Software Developer Analyst with knowledge of Computer Architecture, Network Architecture, Computer Security,
+#Software Engineering, Process Automation, Software and Project Management, Capture
+#requirements, Software Quality Assurance, Risk Management and Software Architecture.
 
   I am most skilled in: <mark>C#</mark> and <mark>Odoo</mark>
 
@@ -43,7 +46,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software developer and software engineering some of my other interests and hobbies are:
    - Gaming
    - Knitting
-   #- [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
