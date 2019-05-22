@@ -24,7 +24,8 @@ linkedin_username: norlancd
 # about_title: About Me
 about_profile_image: images/photo_perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Norlan and I'm a Scrum Master and a senior developer in different programming languages. I have experience making Web and Mobile applications. 
+  Hi, my name's Norlan and I'm a Scrum Master and a senior developer in different programming languages. 
+  I have experience making Web and Mobile applications. 
   #Software Developer Analyst with knowledge of Computer Architecture, Network Architecture, Computer Security,
 #Software Engineering, Process Automation, Software and Project Management, Capture
 #requirements, Software Quality Assurance, Risk Management and Software Architecture.
