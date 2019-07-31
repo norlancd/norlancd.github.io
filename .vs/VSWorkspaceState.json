@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\images",
+    "\\_data",
+    "\\_layouts"
   ],
+  "SelectedNode": "\\_data\\experience.yml",
   "PreviewInSolutionExplorer": false
 }
