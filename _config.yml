@@ -24,7 +24,7 @@ youtube_username: norlan.capote
 # about_title: About Me
 about_profile_image: images/photo_perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Norlan and I'm a Scrum Master and a senior developer in different programming languages. 
+  Hi, my name's Norlan and I'm a Scrum Master | Senior Developer | Tester QA. 
   I have experience making Web and Mobile applications. 
   
   I am most skilled in: <mark>C#</mark> and <mark>Odoo</mark>
