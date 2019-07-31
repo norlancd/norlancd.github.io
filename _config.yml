@@ -24,15 +24,11 @@ youtube_username: norlan.capote
 # about_title: About Me
 about_profile_image: images/photo_perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Norlan and I'm a Scrum Master | Senior Developer | Tester QA. 
-  I have experience making Web and Mobile applications. 
-  
-  I am most skilled in: <mark>C#</mark> and <mark>Odoo</mark>
-
-  |◼️ Computer Science Engineer, with 10 years of experience in testing, development and maintenance of Web applications, Mobile and Desktop in different programming languages ​​applying agile methodologies.
-  |◼️ Analyst Software Developer with knowledge of Computer Architecture, Network Architecture, Computer Security, Software Engineering, Process Automation, Software and Project Management, Requirements Capture, Software Quality Assurance (QA), Risk Management, and Software Architecture.
-  |◼️ Highly responsible, honest professional, focused on their objectives, with excellent analytical skills and problem solving.
-  |◼️ Passionate about finding technological solutions that add value to the services he carries out and with a permanent disposition to share his knowledge with others. 
+  Hi, my name's Norlan and I'm a <mark>Scrum Master</mark>, <mark>Senior Developer</mark> and <mark>QA Tester</mark>. 
+  I have experience in testing, development and maintenance of Web, Mobile and Desktop applications in different programming languages ​​applying agile methodologies.
+  I have knowledge in Computer Architecture, Network Architecture, Computer Security, Software Engineering, Process Automation, Software and Project Management, Requirements Capture, Risk Management and Software Architecture.
+  I'm very responsible person, honest professional, focused on their objectives, with excellent analytical skills and problem solving.
+  Passionate about finding technological solutions that add value to the services he carries out and with a permanent disposition to share his knowledge with others. 
 
 # Projects Section
 # projects_title: Projects
