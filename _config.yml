@@ -1,4 +1,4 @@
-# Site
+﻿# Site
 repository: norlancd/norlancd.github.io
 # favicon: images/favicon.ico
 
@@ -29,6 +29,11 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>C#</mark> and <mark>Odoo</mark>
 
+  ◼️ Computer Science Engineer, with 10 years of experience in testing, development and maintenance of Web applications, Mobile and Desktop in different programming languages ​​applying agile methodologies.
+  ◼️ Analyst Software Developer with knowledge of Computer Architecture, Network Architecture, Computer Security, Software Engineering, Process Automation, Software and Project Management, Requirements Capture, Software Quality Assurance (QA), Risk Management, and Software Architecture.
+  ◼️ Highly responsible, honest professional, focused on their objectives, with excellent analytical skills and problem solving.
+  ◼️ Passionate about finding technological solutions that add value to the services he carries out and with a permanent disposition to share his knowledge with others. 
+
 # Projects Section
 # projects_title: Projects
 
@@ -42,8 +47,8 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software developer and software engineering some of my other interests and hobbies are:
-   - Gaming
-   - Knitting
+   - Science fiction
+   - Space
 
 # Footer
 footer_show_references: true
